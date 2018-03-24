@@ -4,6 +4,28 @@ BODY {
     font: 16px/1.4 Arial, sans-serif;
 }
 
+A:link {
+    color: orangered;
+}
+
+A:visited {
+    color: gold;
+}
+
+A:hover {
+    color: yellowgreen;
+}
+
 H1, H2, H3 {
     color: teal;
+}
+
+NAV {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+}
+
+NAV A {
+    margin-right: 20px;
 }
