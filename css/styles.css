@@ -1,0 +1,9 @@
+BODY {
+    margin: 0;
+    padding: 20px;
+    font: 16px/1.4 Arial, sans-serif;
+}
+
+H1, H2, H3 {
+    color: teal;
+}
